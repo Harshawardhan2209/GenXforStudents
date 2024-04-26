@@ -41,7 +41,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SurajSanap/College.ai_v0.1.git
+git clone https://github.com/Harshawardhan2209/GenXforStudents.git
 ```
 
 2. Navigate to the project directory:
