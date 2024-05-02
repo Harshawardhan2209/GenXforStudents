@@ -8,7 +8,7 @@ with open('src/About.json') as anim_source:
     animation = json.load(anim_source)
 st_lottie(animation, 1, True, True, "high", 200, -200)
 
-st.text("-                     @Harsh patare & Rohit Nehul Project 2024                  -")
+st.text("-                     @Rohit Nehul & Harsh patare Project 2024                  -")
 st.write("\n")
 
 col1, col2, col3 = st.columns([1,1,1])
