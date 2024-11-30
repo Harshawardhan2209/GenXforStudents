@@ -1,0 +1,501 @@
+Experience,Skills,Job Applying For,Selected
+9,"['flutter', 'android', 'swift', 'aws', 'project management']",app developer senior,0
+2,"['python', 'django', 'aws', 'nodejs', 'docker']",backend developer junior,1
+8,"['android', 'kotlin', 'API', 'content writing', 'ruby']",app developer senior,0
+5,"['android', 'java', 'API', 'docker', 'nodejs']",app developer senior,0
+3,"['postgresql', 'flask', 'aws', 'docker', 'ruby']",backend developer junior,1
+2,"['python', 'postgresql', 'photoshop', 'content writing', 'project management']",backend developer junior,1
+4,"['ios', 'kotlin', 'java', 'project management', 'ruby']",app developer senior,0
+1,"['java', 'sql', 'project management', 'docker', 'ruby']",java developer junior,1
+0,"['java', 'ios', 'seo', 'docker', 'photoshop']",app developer junior,1
+5,"['redux', 'react', 'html', 'kotlin', 'nodejs']",frontend developer senior,0
+4,"['API', 'kotlin', 'java', 'project management', 'kotlin']",app developer senior,0
+9,"['javascript', 'react', 'vue', 'nodejs', 'seo']",frontend developer senior,0
+4,"['css', 'react', 'vue', 'aws', 'seo']",frontend developer senior,0
+4,"['spring', 'hibernate', 'sql', 'project management', 'ruby']",java developer senior,0
+3,"['flask', 'API', 'photoshop', 'kotlin', 'content writing']",python developer junior,1
+2,"['javascript', 'css', 'kotlin', 'nodejs', 'photoshop']",frontend developer junior,1
+0,"['javascript', 'html', 'photoshop', 'docker', 'nodejs']",frontend developer junior,1
+8,"['API', 'flutter', 'swift', 'kotlin', 'docker']",app developer senior,1
+1,"['flask', 'machine learning', 'docker', 'content writing', 'nodejs']",python developer junior,1
+1,"['python', 'machine learning', 'seo', 'photoshop', 'nodejs']",python developer junior,1
+3,"['python', 'flask', 'docker', 'kotlin', 'aws']",python developer junior,1
+2,"['html', 'javascript', 'project management', 'photoshop', 'kotlin']",frontend developer junior,1
+5,"['docker', 'sql', 'python', 'docker', 'kotlin']",backend developer senior,0
+0,"['html', 'vue', 'ruby', 'project management', 'kotlin']",frontend developer junior,1
+0,"['servlet', 'java', 'seo', 'photoshop', 'kotlin']",java developer junior,1
+3,"['django', 'flask', 'ruby', 'aws', 'project management']",backend developer junior,1
+0,"['machine learning', 'python', 'photoshop', 'docker', 'content writing']",python developer junior,1
+3,"['java', 'swift', 'nodejs', 'docker', 'seo']",app developer junior,1
+5,"['css', 'typescript', 'javascript', 'kotlin', 'seo']",frontend developer senior,0
+5,"['sql', 'django', 'API', 'photoshop', 'content writing']",backend developer senior,0
+1,"['react', 'vue', 'seo', 'kotlin', 'ruby']",frontend developer junior,1
+4,"['vue', 'react', 'html', 'photoshop', 'docker']",frontend developer senior,0
+0,"['hibernate', 'spring', 'kotlin', 'seo', 'ruby']",java developer junior,1
+3,"['sql', 'spring', 'project management', 'ruby', 'kotlin']",java developer junior,1
+1,"['postgresql', 'python', 'project management', 'photoshop', 'seo']",backend developer junior,1
+2,"['flask', 'API', 'nodejs', 'project management', 'aws']",python developer junior,1
+8,"['sql', 'API', 'JPA', 'ruby', 'project management']",java developer senior,0
+0,"['flask', 'postgresql', 'ruby', 'seo', 'photoshop']",backend developer junior,1
+6,"['django', 'flask', 'sql', 'content writing', 'aws']",backend developer senior,0
+1,"['python', 'machine learning', 'aws', 'content writing', 'photoshop']",python developer junior,1
+1,"['ios', 'android', 'aws', 'photoshop', 'kotlin']",app developer junior,1
+7,"['deep learning', 'machine learning', 'API', 'content writing', 'kotlin']",python developer senior,0
+3,"['javascript', 'html', 'nodejs', 'docker', 'ruby']",frontend developer junior,1
+4,"['python', 'flask', 'deep learning', 'project management', 'nodejs']",python developer senior,0
+0,"['django', 'postgresql', 'docker', 'photoshop', 'nodejs']",backend developer junior,1
+7,"['docker', 'API', 'flask', 'nodejs', 'ruby']",backend developer senior,0
+2,"['hibernate', 'sql', 'kotlin', 'aws', 'docker']",java developer junior,1
+5,"['postgresql', 'docker', 'django', 'nodejs', 'aws']",backend developer senior,0
+0,"['react', 'html', 'photoshop', 'nodejs', 'project management']",frontend developer junior,1
+0,"['python', 'machine learning', 'photoshop', 'aws', 'kotlin']",python developer junior,1
+8,"['css', 'html', 'vue', 'nodejs', 'aws']",frontend developer senior,0
+5,"['javascript', 'css', 'vue', 'seo', 'aws']",frontend developer senior,0
+1,"['API', 'python', 'project management', 'docker', 'photoshop']",python developer junior,1
+3,"['css', 'html', 'project management', 'aws', 'docker']",frontend developer junior,1
+8,"['flask', 'machine learning', 'python', 'seo', 'ruby']",python developer senior,0
+3,"['javascript', 'html', 'docker', 'aws', 'kotlin']",frontend developer junior,1
+9,"['microservices', 'API', 'JPA', 'seo', 'content writing']",java developer senior,0
+0,"['ios', 'swift', 'aws', 'photoshop', 'content writing']",app developer junior,1
+7,"['javascript', 'css', 'react', 'project management', 'kotlin']",frontend developer senior,0
+1,"['hibernate', 'servlet', 'docker', 'seo', 'photoshop']",java developer junior,1
+8,"['API', 'flask', 'python', 'kotlin', 'aws']",backend developer senior,0
+4,"['javascript', 'typescript', 'vue', 'seo', 'project management']",frontend developer senior,0
+10,"['html', 'vue', 'react', 'kotlin', 'photoshop']",frontend developer senior,0
+5,"['flask', 'postgresql', 'sql', 'seo', 'content writing']",backend developer senior,0
+1,"['django', 'postgresql', 'ruby', 'project management', 'seo']",backend developer junior,1
+9,"['ios', 'flutter', 'android', 'docker', 'seo']",app developer senior,0
+1,"['ios', 'android', 'project management', 'nodejs', 'photoshop']",app developer junior,1
+0,"['ios', 'android', 'photoshop', 'project management', 'docker']",app developer junior,1
+3,"['javascript', 'html', 'kotlin', 'seo', 'nodejs']",frontend developer junior,1
+0,"['hibernate', 'java', 'content writing', 'kotlin', 'aws']",java developer junior,1
+2,"['swift', 'ios', 'project management', 'ruby', 'photoshop']",app developer junior,1
+4,"['hibernate', 'java', 'JPA', 'seo', 'kotlin']",java developer senior,0
+2,"['python', 'sql', 'photoshop', 'project management', 'kotlin']",backend developer junior,1
+2,"['flask', 'python', 'docker', 'content writing', 'project management']",backend developer junior,1
+3,"['android', 'java', 'project management', 'docker', 'seo']",app developer junior,1
+9,"['css', 'html', 'react', 'nodejs', 'project management']",frontend developer senior,0
+3,"['django', 'python', 'content writing', 'kotlin', 'docker']",backend developer junior,1
+3,"['spring', 'sql', 'aws', 'nodejs', 'seo']",java developer junior,1
+10,"['API', 'postgresql', 'flask', 'content writing', 'kotlin']",backend developer senior,0
+2,"['sql', 'java', 'docker', 'ruby', 'kotlin']",java developer junior,1
+10,"['spring', 'java', 'API', 'docker', 'photoshop']",java developer senior,0
+0,"['servlet', 'spring', 'project management', 'ruby', 'content writing']",java developer junior,1
+2,"['django', 'python', 'nodejs', 'photoshop', 'project management']",backend developer junior,1
+3,"['python', 'machine learning', 'nodejs', 'ruby', 'content writing']",python developer junior,1
+9,"['microservices', 'sql', 'spring', 'kotlin', 'aws']",java developer senior,0
+6,"['python', 'sql', 'API', 'seo', 'kotlin']",backend developer senior,0
+3,"['servlet', 'spring', 'docker', 'content writing', 'photoshop']",java developer junior,1
+4,"['java', 'hibernate', 'API', 'photoshop', 'seo']",java developer senior,0
+9,"['javascript', 'html', 'vue', 'content writing', 'project management']",frontend developer senior,0
+8,"['API', 'deep learning', 'flask', 'ruby', 'docker']",python developer senior,0
+0,"['API', 'python', 'docker', 'kotlin', 'ruby']",python developer junior,1
+0,"['android', 'swift', 'docker', 'aws', 'photoshop']",app developer junior,1
+3,"['postgresql', 'flask', 'docker', 'content writing', 'seo']",backend developer junior,1
+9,"['microservices', 'spring', 'hibernate', 'project management', 'kotlin']",java developer senior,0
+3,"['machine learning', 'flask', 'seo', 'content writing', 'nodejs']",python developer junior,1
+2,"['django', 'postgresql', 'aws', 'kotlin', 'seo']",backend developer junior,1
+9,"['API', 'hibernate', 'spring', 'ruby', 'project management']",java developer senior,0
+0,"['API', 'flask', 'aws', 'docker', 'photoshop']",python developer junior,1
+0,"['spring', 'sql', 'seo', 'docker', 'photoshop']",java developer junior,1
+7,"['microservices', 'spring', 'java', 'kotlin', 'aws']",java developer senior,0
+1,"['javascript', 'css', 'aws', 'seo', 'docker']",frontend developer junior,1
+2,"['python', 'sql', 'content writing', 'docker', 'nodejs']",backend developer junior,1
+3,"['flask', 'django', 'aws', 'project management', 'docker']",backend developer junior,1
+2,"['react', 'javascript', 'content writing', 'kotlin', 'docker']",frontend developer junior,1
+8,"['javascript', 'typescript', 'css', 'project management', 'seo']",frontend developer senior,0
+2,"['flask', 'API', 'content writing', 'photoshop', 'aws']",python developer junior,1
+5,"['redux', 'react', 'javascript', 'photoshop', 'kotlin']",frontend developer senior,0
+2,"['python', 'postgresql', 'kotlin', 'project management', 'content writing']",backend developer junior,1
+3,"['hibernate', 'servlet', 'docker', 'kotlin', 'aws']",java developer junior,1
+5,"['hibernate', 'java', 'sql', 'seo', 'project management']",java developer senior,0
+10,"['flutter', 'API', 'swift', 'aws', 'kotlin']",app developer senior,1
+10,"['flask', 'AI', 'machine learning', 'aws', 'kotlin']",python developer senior,0
+6,"['swift', 'android', 'java', 'aws', 'ruby']",app developer senior,0
+1,"['postgresql', 'django', 'nodejs', 'aws', 'docker']",backend developer junior,1
+9,"['redux', 'react', 'html', 'nodejs', 'docker']",frontend developer senior,0
+1,"['vue', 'react', 'photoshop', 'project management', 'nodejs']",frontend developer junior,1
+3,"['java', 'sql', 'nodejs', 'project management', 'photoshop']",java developer junior,1
+6,"['sql', 'API', 'microservices', 'content writing', 'docker']",java developer senior,0
+4,"['docker', 'django', 'python', 'ruby', 'aws']",backend developer senior,0
+2,"['python', 'machine learning', 'docker', 'ruby', 'seo']",python developer junior,1
+2,"['vue', 'react', 'ruby', 'kotlin', 'project management']",frontend developer junior,1
+3,"['swift', 'flutter', 'seo', 'docker', 'nodejs']",app developer junior,1
+3,"['sql', 'django', 'docker', 'project management', 'photoshop']",backend developer junior,1
+1,"['flask', 'python', 'content writing', 'nodejs', 'ruby']",backend developer junior,1
+1,"['machine learning', 'python', 'content writing', 'ruby', 'kotlin']",python developer junior,1
+10,"['python', 'deep learning', 'flask', 'docker', 'aws']",python developer senior,0
+0,"['vue', 'html', 'project management', 'aws', 'kotlin']",frontend developer junior,1
+0,"['java', 'servlet', 'nodejs', 'kotlin', 'content writing']",java developer junior,1
+2,"['css', 'vue', 'photoshop', 'docker', 'ruby']",frontend developer junior,1
+6,"['kotlin', 'flutter', 'API', 'project management', 'ruby']",app developer senior,0
+2,"['python', 'machine learning', 'ruby', 'seo', 'nodejs']",python developer junior,1
+8,"['flask', 'AI', 'python', 'aws', 'project management']",python developer senior,0
+4,"['machine learning', 'python', 'API', 'seo', 'photoshop']",python developer senior,0
+3,"['python', 'sql', 'project management', 'kotlin', 'aws']",backend developer junior,1
+9,"['python', 'API', 'flask', 'content writing', 'aws']",python developer senior,0
+8,"['JPA', 'API', 'java', 'project management', 'content writing']",java developer senior,0
+3,"['flutter', 'ios', 'project management', 'docker', 'aws']",app developer junior,1
+2,"['android', 'flutter', 'kotlin', 'ruby', 'seo']",app developer junior,1
+2,"['javascript', 'css', 'docker', 'ruby', 'nodejs']",frontend developer junior,1
+6,"['machine learning', 'flask', 'python', 'content writing', 'photoshop']",python developer senior,0
+1,"['java', 'sql', 'seo', 'photoshop', 'docker']",java developer junior,1
+9,"['redux', 'vue', 'html', 'ruby', 'aws']",frontend developer senior,0
+5,"['vue', 'css', 'react', 'content writing', 'ruby']",frontend developer senior,0
+5,"['html', 'vue', 'css', 'project management', 'ruby']",frontend developer senior,0
+9,"['python', 'deep learning', 'flask', 'seo', 'project management']",python developer senior,0
+8,"['API', 'swift', 'kotlin', 'aws', 'ruby']",app developer senior,0
+4,"['swift', 'java', 'flutter', 'docker', 'seo']",app developer senior,0
+2,"['flutter', 'android', 'content writing', 'ruby', 'nodejs']",app developer junior,1
+2,"['android', 'java', 'photoshop', 'project management', 'nodejs']",app developer junior,1
+10,"['html', 'redux', 'css', 'nodejs', 'ruby']",frontend developer senior,0
+10,"['kotlin', 'flutter', 'API', 'nodejs', 'project management']",app developer senior,0
+8,"['swift', 'java', 'kotlin', 'kotlin', 'project management']",app developer senior,0
+6,"['react', 'vue', 'html', 'content writing', 'docker']",frontend developer senior,0
+8,"['JPA', 'microservices', 'hibernate', 'nodejs', 'content writing']",java developer senior,0
+9,"['css', 'vue', 'react', 'kotlin', 'content writing']",frontend developer senior,0
+6,"['android', 'flutter', 'ios', 'kotlin', 'photoshop']",app developer senior,1
+7,"['flask', 'AI', 'machine learning', 'nodejs', 'aws']",python developer senior,0
+10,"['python', 'flask', 'AI', 'docker', 'ruby']",python developer senior,0
+1,"['API', 'flask', 'kotlin', 'project management', 'nodejs']",python developer junior,1
+5,"['sql', 'API', 'spring', 'project management', 'aws']",java developer senior,0
+4,"['javascript', 'typescript', 'redux', 'content writing', 'ruby']",frontend developer senior,0
+4,"['css', 'vue', 'html', 'photoshop', 'aws']",frontend developer senior,0
+4,"['css', 'typescript', 'redux', 'content writing', 'photoshop']",frontend developer senior,0
+8,"['kotlin', 'swift', 'java', 'project management', 'kotlin']",app developer senior,0
+5,"['kotlin', 'flutter', 'swift', 'docker', 'nodejs']",app developer senior,0
+4,"['machine learning', 'flask', 'AI', 'seo', 'photoshop']",python developer senior,0
+3,"['flask', 'API', 'photoshop', 'seo', 'aws']",python developer junior,1
+9,"['typescript', 'html', 'css', 'content writing', 'nodejs']",frontend developer senior,0
+9,"['python', 'sql', 'django', 'kotlin', 'content writing']",backend developer senior,0
+0,"['android', 'flutter', 'ruby', 'seo', 'kotlin']",app developer junior,1
+0,"['flask', 'python', 'seo', 'kotlin', 'content writing']",python developer junior,1
+4,"['API', 'java', 'spring', 'docker', 'ruby']",java developer senior,0
+3,"['flutter', 'android', 'nodejs', 'ruby', 'aws']",app developer junior,1
+10,"['redux', 'css', 'javascript', 'ruby', 'nodejs']",frontend developer senior,0
+9,"['flask', 'docker', 'sql', 'kotlin', 'nodejs']",backend developer senior,0
+9,"['AI', 'machine learning', 'API', 'aws', 'project management']",python developer senior,0
+3,"['machine learning', 'API', 'photoshop', 'kotlin', 'content writing']",python developer junior,1
+6,"['machine learning', 'flask', 'python', 'ruby', 'kotlin']",python developer senior,0
+10,"['spring', 'sql', 'java', 'content writing', 'kotlin']",java developer senior,0
+0,"['vue', 'html', 'content writing', 'kotlin', 'docker']",frontend developer junior,1
+0,"['hibernate', 'servlet', 'project management', 'kotlin', 'seo']",java developer junior,1
+3,"['flutter', 'ios', 'photoshop', 'seo', 'kotlin']",app developer junior,1
+2,"['hibernate', 'sql', 'nodejs', 'kotlin', 'project management']",java developer junior,1
+6,"['flutter', 'java', 'swift', 'docker', 'project management']",app developer senior,0
+2,"['flutter', 'swift', 'seo', 'docker', 'photoshop']",app developer junior,1
+5,"['django', 'sql', 'postgresql', 'kotlin', 'docker']",backend developer senior,1
+3,"['hibernate', 'spring', 'content writing', 'seo', 'ruby']",java developer junior,1
+10,"['spring', 'java', 'API', 'nodejs', 'aws']",java developer senior,0
+3,"['API', 'machine learning', 'aws', 'photoshop', 'kotlin']",python developer junior,1
+3,"['hibernate', 'servlet', 'content writing', 'nodejs', 'kotlin']",java developer junior,1
+3,"['css', 'vue', 'ruby', 'kotlin', 'seo']",frontend developer junior,1
+6,"['kotlin', 'ios', 'swift', 'ruby', 'seo']",app developer senior,0
+2,"['javascript', 'html', 'photoshop', 'content writing', 'project management']",frontend developer junior,1
+0,"['flutter', 'swift', 'photoshop', 'content writing', 'seo']",app developer junior,1
+3,"['sql', 'servlet', 'seo', 'docker', 'project management']",java developer junior,1
+6,"['AI', 'API', 'machine learning', 'docker', 'content writing']",python developer senior,0
+4,"['swift', 'flutter', 'kotlin', 'docker', 'aws']",app developer senior,0
+2,"['flask', 'python', 'docker', 'aws', 'ruby']",backend developer junior,1
+10,"['hibernate', 'java', 'microservices', 'photoshop', 'content writing']",java developer senior,0
+4,"['swift', 'android', 'flutter', 'docker', 'project management']",app developer senior,0
+1,"['react', 'javascript', 'seo', 'docker', 'project management']",frontend developer junior,1
+10,"['kotlin', 'swift', 'API', 'seo', 'nodejs']",app developer senior,0
+3,"['vue', 'react', 'seo', 'aws', 'nodejs']",frontend developer junior,1
+0,"['django', 'python', 'project management', 'ruby', 'aws']",backend developer junior,1
+5,"['microservices', 'JPA', 'java', 'photoshop', 'ruby']",java developer senior,0
+0,"['ios', 'flutter', 'content writing', 'project management', 'ruby']",app developer junior,1
+0,"['javascript', 'vue', 'docker', 'kotlin', 'photoshop']",frontend developer junior,1
+2,"['sql', 'postgresql', 'nodejs', 'project management', 'docker']",backend developer junior,1
+9,"['flask', 'AI', 'python', 'seo', 'photoshop']",python developer senior,0
+3,"['vue', 'html', 'aws', 'project management', 'photoshop']",frontend developer junior,1
+1,"['postgresql', 'flask', 'kotlin', 'ruby', 'seo']",backend developer junior,1
+0,"['vue', 'react', 'seo', 'nodejs', 'kotlin']",frontend developer junior,1
+6,"['react', 'redux', 'javascript', 'kotlin', 'docker']",frontend developer senior,0
+10,"['microservices', 'spring', 'java', 'nodejs', 'docker']",java developer senior,0
+10,"['machine learning', 'flask', 'python', 'aws', 'kotlin']",python developer senior,0
+10,"['JPA', 'spring', 'API', 'ruby', 'photoshop']",java developer senior,0
+0,"['javascript', 'react', 'nodejs', 'kotlin', 'photoshop']",frontend developer junior,1
+3,"['machine learning', 'python', 'project management', 'kotlin', 'nodejs']",python developer junior,1
+7,"['css', 'typescript', 'vue', 'kotlin', 'photoshop']",frontend developer senior,0
+4,"['css', 'redux', 'typescript', 'kotlin', 'photoshop']",frontend developer senior,0
+1,"['ios', 'java', 'photoshop', 'nodejs', 'ruby']",app developer junior,1
+9,"['android', 'java', 'kotlin', 'photoshop', 'docker']",app developer senior,0
+1,"['django', 'python', 'seo', 'photoshop', 'aws']",backend developer junior,1
+0,"['flask', 'API', 'content writing', 'docker', 'nodejs']",python developer junior,1
+0,"['ios', 'flutter', 'ruby', 'photoshop', 'project management']",app developer junior,1
+0,"['python', 'django', 'photoshop', 'kotlin', 'seo']",backend developer junior,1
+10,"['hibernate', 'JPA', 'API', 'nodejs', 'seo']",java developer senior,0
+3,"['java', 'android', 'ruby', 'kotlin', 'seo']",app developer junior,1
+3,"['sql', 'java', 'kotlin', 'aws', 'ruby']",java developer junior,1
+1,"['hibernate', 'sql', 'photoshop', 'docker', 'nodejs']",java developer junior,1
+1,"['react', 'html', 'content writing', 'photoshop', 'project management']",frontend developer junior,1
+0,"['swift', 'android', 'aws', 'project management', 'seo']",app developer junior,1
+0,"['ios', 'android', 'aws', 'nodejs', 'photoshop']",app developer junior,1
+9,"['typescript', 'css', 'redux', 'aws', 'kotlin']",frontend developer senior,0
+7,"['html', 'typescript', 'redux', 'docker', 'seo']",frontend developer senior,0
+5,"['API', 'machine learning', 'deep learning', 'project management', 'docker']",python developer senior,0
+10,"['java', 'ios', 'android', 'ruby', 'aws']",app developer senior,0
+3,"['flask', 'API', 'kotlin', 'content writing', 'nodejs']",python developer junior,1
+2,"['flask', 'python', 'photoshop', 'ruby', 'content writing']",backend developer junior,1
+8,"['swift', 'flutter', 'ios', 'kotlin', 'seo']",app developer senior,1
+2,"['hibernate', 'sql', 'seo', 'photoshop', 'project management']",java developer junior,1
+7,"['hibernate', 'sql', 'spring', 'nodejs', 'photoshop']",java developer senior,0
+10,"['API', 'postgresql', 'docker', 'nodejs', 'content writing']",backend developer senior,0
+1,"['python', 'sql', 'photoshop', 'aws', 'ruby']",backend developer junior,1
+1,"['sql', 'hibernate', 'docker', 'project management', 'kotlin']",java developer junior,1
+0,"['react', 'css', 'photoshop', 'seo', 'kotlin']",frontend developer junior,1
+0,"['flutter', 'swift', 'seo', 'content writing', 'nodejs']",app developer junior,1
+0,"['css', 'html', 'project management', 'seo', 'kotlin']",frontend developer junior,1
+7,"['ios', 'java', 'flutter', 'nodejs', 'ruby']",app developer senior,0
+5,"['flask', 'docker', 'postgresql', 'docker', 'nodejs']",backend developer senior,0
+9,"['flutter', 'API', 'android', 'aws', 'content writing']",app developer senior,0
+6,"['css', 'html', 'redux', 'photoshop', 'seo']",frontend developer senior,0
+0,"['hibernate', 'servlet', 'nodejs', 'kotlin', 'content writing']",java developer junior,1
+9,"['deep learning', 'machine learning', 'API', 'nodejs', 'photoshop']",python developer senior,0
+2,"['django', 'postgresql', 'ruby', 'content writing', 'seo']",backend developer junior,1
+0,"['machine learning', 'flask', 'content writing', 'nodejs', 'ruby']",python developer junior,1
+7,"['API', 'AI', 'flask', 'nodejs', 'content writing']",python developer senior,0
+2,"['javascript', 'react', 'kotlin', 'nodejs', 'project management']",frontend developer junior,1
+5,"['css', 'javascript', 'redux', 'ruby', 'seo']",frontend developer senior,0
+1,"['sql', 'java', 'aws', 'ruby', 'docker']",java developer junior,1
+8,"['kotlin', 'java', 'ios', 'photoshop', 'nodejs']",app developer senior,0
+0,"['postgresql', 'django', 'docker', 'project management', 'aws']",backend developer junior,1
+0,"['css', 'javascript', 'aws', 'seo', 'content writing']",frontend developer junior,1
+3,"['API', 'machine learning', 'nodejs', 'photoshop', 'seo']",python developer junior,1
+1,"['java', 'swift', 'photoshop', 'content writing', 'ruby']",app developer junior,1
+3,"['python', 'sql', 'project management', 'kotlin', 'content writing']",backend developer junior,1
+7,"['kotlin', 'API', 'android', 'docker', 'photoshop']",app developer senior,0
+0,"['flask', 'API', 'nodejs', 'aws', 'kotlin']",python developer junior,1
+2,"['html', 'javascript', 'nodejs', 'kotlin', 'seo']",frontend developer junior,1
+9,"['react', 'css', 'typescript', 'photoshop', 'docker']",frontend developer senior,0
+10,"['react', 'html', 'css', 'nodejs', 'docker']",frontend developer senior,0
+7,"['react', 'javascript', 'css', 'nodejs', 'project management']",frontend developer senior,0
+7,"['spring', 'hibernate', 'microservices', 'docker', 'content writing']",java developer senior,0
+5,"['css', 'vue', 'html', 'seo', 'ruby']",frontend developer senior,0
+7,"['sql', 'API', 'hibernate', 'nodejs', 'project management']",java developer senior,0
+3,"['API', 'python', 'aws', 'nodejs', 'seo']",python developer junior,1
+7,"['microservices', 'JPA', 'API', 'nodejs', 'ruby']",java developer senior,0
+5,"['flutter', 'kotlin', 'swift', 'project management', 'content writing']",app developer senior,0
+8,"['flutter', 'ios', 'API', 'docker', 'project management']",app developer senior,0
+10,"['flask', 'AI', 'deep learning', 'nodejs', 'project management']",python developer senior,0
+2,"['django', 'python', 'ruby', 'nodejs', 'content writing']",backend developer junior,1
+6,"['sql', 'docker', 'API', 'ruby', 'project management']",backend developer senior,0
+9,"['API', 'deep learning', 'AI', 'seo', 'kotlin']",python developer senior,0
+5,"['css', 'redux', 'html', 'project management', 'photoshop']",frontend developer senior,0
+1,"['django', 'postgresql', 'aws', 'docker', 'ruby']",backend developer junior,1
+1,"['sql', 'postgresql', 'ruby', 'nodejs', 'kotlin']",backend developer junior,1
+4,"['javascript', 'react', 'redux', 'nodejs', 'project management']",frontend developer senior,0
+2,"['java', 'swift', 'nodejs', 'docker', 'aws']",app developer junior,1
+1,"['swift', 'flutter', 'docker', 'content writing', 'ruby']",app developer junior,1
+10,"['sql', 'API', 'JPA', 'project management', 'photoshop']",java developer senior,0
+4,"['AI', 'flask', 'machine learning', 'docker', 'nodejs']",python developer senior,0
+3,"['flutter', 'android', 'nodejs', 'docker', 'seo']",app developer junior,1
+2,"['html', 'vue', 'ruby', 'docker', 'content writing']",frontend developer junior,1
+1,"['java', 'flutter', 'ruby', 'nodejs', 'content writing']",app developer junior,1
+0,"['postgresql', 'sql', 'kotlin', 'ruby', 'photoshop']",backend developer junior,1
+9,"['java', 'API', 'flutter', 'photoshop', 'kotlin']",app developer senior,1
+10,"['API', 'deep learning', 'AI', 'aws', 'seo']",python developer senior,0
+10,"['html', 'vue', 'javascript', 'project management', 'seo']",frontend developer senior,0
+9,"['JPA', 'java', 'API', 'aws', 'nodejs']",java developer senior,0
+7,"['AI', 'machine learning', 'API', 'content writing', 'docker']",python developer senior,0
+3,"['flutter', 'android', 'project management', 'seo', 'aws']",app developer junior,1
+6,"['sql', 'microservices', 'API', 'aws', 'seo']",java developer senior,0
+6,"['flask', 'postgresql', 'docker', 'aws', 'ruby']",backend developer senior,0
+1,"['spring', 'java', 'seo', 'aws', 'kotlin']",java developer junior,1
+8,"['kotlin', 'swift', 'android', 'ruby', 'content writing']",app developer senior,0
+7,"['API', 'python', 'AI', 'aws', 'content writing']",python developer senior,0
+3,"['java', 'flutter', 'ruby', 'kotlin', 'seo']",app developer junior,1
+0,"['python', 'sql', 'ruby', 'photoshop', 'nodejs']",backend developer junior,1
+1,"['flask', 'API', 'kotlin', 'photoshop', 'seo']",python developer junior,1
+0,"['sql', 'java', 'ruby', 'photoshop', 'kotlin']",java developer junior,1
+2,"['spring', 'hibernate', 'content writing', 'photoshop', 'project management']",java developer junior,1
+10,"['flutter', 'java', 'android', 'kotlin', 'aws']",app developer senior,1
+1,"['postgresql', 'django', 'aws', 'ruby', 'project management']",backend developer junior,1
+0,"['flutter', 'swift', 'content writing', 'seo', 'ruby']",app developer junior,1
+0,"['API', 'python', 'aws', 'seo', 'docker']",python developer junior,1
+1,"['sql', 'python', 'nodejs', 'project management', 'aws']",backend developer junior,1
+0,"['java', 'sql', 'kotlin', 'nodejs', 'ruby']",java developer junior,1
+1,"['android', 'flutter', 'docker', 'seo', 'aws']",app developer junior,1
+8,"['API', 'JPA', 'hibernate', 'aws', 'ruby']",java developer senior,0
+1,"['machine learning', 'API', 'ruby', 'kotlin', 'aws']",python developer junior,1
+9,"['ios', 'kotlin', 'flutter', 'docker', 'aws']",app developer senior,0
+1,"['vue', 'html', 'docker', 'nodejs', 'aws']",frontend developer junior,1
+10,"['redux', 'css', 'vue', 'docker', 'content writing']",frontend developer senior,0
+7,"['android', 'java', 'swift', 'project management', 'ruby']",app developer senior,0
+9,"['API', 'deep learning', 'AI', 'aws', 'project management']",python developer senior,0
+3,"['servlet', 'spring', 'seo', 'aws', 'docker']",java developer junior,1
+6,"['java', 'API', 'android', 'docker', 'ruby']",app developer senior,0
+2,"['vue', 'html', 'project management', 'photoshop', 'aws']",frontend developer junior,1
+6,"['django', 'python', 'postgresql', 'nodejs', 'seo']",backend developer senior,0
+9,"['redux', 'typescript', 'javascript', 'photoshop', 'docker']",frontend developer senior,0
+0,"['servlet', 'sql', 'kotlin', 'content writing', 'photoshop']",java developer junior,1
+7,"['API', 'python', 'flask', 'kotlin', 'nodejs']",backend developer senior,0
+6,"['flutter', 'swift', 'android', 'ruby', 'project management']",app developer senior,0
+3,"['postgresql', 'sql', 'project management', 'seo', 'nodejs']",backend developer junior,1
+10,"['sql', 'flask', 'postgresql', 'seo', 'content writing']",backend developer senior,0
+1,"['android', 'java', 'project management', 'ruby', 'seo']",app developer junior,1
+0,"['flask', 'python', 'photoshop', 'nodejs', 'project management']",python developer junior,1
+2,"['flask', 'postgresql', 'nodejs', 'project management', 'content writing']",backend developer junior,1
+5,"['API', 'deep learning', 'python', 'photoshop', 'docker']",python developer senior,0
+6,"['flutter', 'java', 'kotlin', 'content writing', 'kotlin']",app developer senior,0
+8,"['javascript', 'redux', 'react', 'kotlin', 'docker']",frontend developer senior,0
+3,"['sql', 'python', 'seo', 'aws', 'photoshop']",backend developer junior,1
+1,"['html', 'javascript', 'aws', 'project management', 'photoshop']",frontend developer junior,1
+3,"['sql', 'django', 'project management', 'content writing', 'nodejs']",backend developer junior,1
+1,"['flask', 'sql', 'kotlin', 'docker', 'content writing']",backend developer junior,1
+0,"['ios', 'android', 'project management', 'seo', 'content writing']",app developer junior,1
+1,"['API', 'python', 'seo', 'aws', 'nodejs']",python developer junior,1
+2,"['swift', 'java', 'seo', 'docker', 'ruby']",app developer junior,1
+1,"['flask', 'machine learning', 'aws', 'ruby', 'content writing']",python developer junior,1
+0,"['django', 'sql', 'aws', 'content writing', 'ruby']",backend developer junior,1
+2,"['machine learning', 'API', 'ruby', 'content writing', 'seo']",python developer junior,1
+10,"['python', 'machine learning', 'deep learning', 'seo', 'nodejs']",python developer senior,0
+10,"['html', 'javascript', 'react', 'nodejs', 'project management']",frontend developer senior,0
+0,"['flask', 'python', 'nodejs', 'docker', 'seo']",backend developer junior,1
+3,"['flask', 'API', 'nodejs', 'seo', 'aws']",python developer junior,1
+2,"['javascript', 'html', 'seo', 'content writing', 'aws']",frontend developer junior,1
+5,"['redux', 'javascript', 'typescript', 'project management', 'docker']",frontend developer senior,0
+3,"['ios', 'java', 'docker', 'content writing', 'project management']",app developer junior,1
+7,"['AI', 'deep learning', 'python', 'docker', 'kotlin']",python developer senior,0
+2,"['machine learning', 'API', 'seo', 'docker', 'aws']",python developer junior,1
+0,"['ios', 'android', 'aws', 'nodejs', 'kotlin']",app developer junior,1
+6,"['react', 'typescript', 'css', 'nodejs', 'kotlin']",frontend developer senior,0
+7,"['hibernate', 'microservices', 'java', 'kotlin', 'ruby']",java developer senior,0
+7,"['sql', 'python', 'flask', 'nodejs', 'content writing']",backend developer senior,0
+4,"['css', 'typescript', 'javascript', 'content writing', 'docker']",frontend developer senior,0
+2,"['css', 'vue', 'nodejs', 'ruby', 'content writing']",frontend developer junior,1
+2,"['flask', 'python', 'kotlin', 'aws', 'docker']",python developer junior,1
+1,"['sql', 'java', 'photoshop', 'project management', 'seo']",java developer junior,1
+5,"['AI', 'machine learning', 'python', 'photoshop', 'content writing']",python developer senior,0
+7,"['sql', 'JPA', 'hibernate', 'content writing', 'nodejs']",java developer senior,0
+7,"['docker', 'flask', 'API', 'nodejs', 'kotlin']",backend developer senior,0
+1,"['sql', 'servlet', 'photoshop', 'kotlin', 'ruby']",java developer junior,1
+3,"['servlet', 'java', 'aws', 'photoshop', 'seo']",java developer junior,1
+3,"['react', 'javascript', 'project management', 'photoshop', 'kotlin']",frontend developer junior,1
+3,"['API', 'flask', 'project management', 'docker', 'kotlin']",python developer junior,1
+9,"['redux', 'css', 'html', 'project management', 'nodejs']",frontend developer senior,0
+7,"['java', 'microservices', 'hibernate', 'ruby', 'seo']",java developer senior,0
+8,"['deep learning', 'python', 'AI', 'nodejs', 'photoshop']",python developer senior,0
+1,"['python', 'machine learning', 'seo', 'docker', 'nodejs']",python developer junior,1
+7,"['spring', 'API', 'JPA', 'project management', 'seo']",java developer senior,0
+2,"['machine learning', 'flask', 'aws', 'kotlin', 'seo']",python developer junior,1
+5,"['spring', 'microservices', 'hibernate', 'seo', 'photoshop']",java developer senior,0
+7,"['deep learning', 'python', 'flask', 'seo', 'docker']",python developer senior,0
+5,"['java', 'API', 'kotlin', 'photoshop', 'content writing']",app developer senior,0
+5,"['API', 'JPA', 'java', 'docker', 'content writing']",java developer senior,0
+2,"['python', 'sql', 'project management', 'nodejs', 'aws']",backend developer junior,1
+0,"['python', 'flask', 'aws', 'ruby', 'kotlin']",python developer junior,1
+3,"['java', 'android', 'nodejs', 'content writing', 'seo']",app developer junior,1
+9,"['typescript', 'css', 'javascript', 'aws', 'seo']",frontend developer senior,0
+0,"['flask', 'python', 'photoshop', 'aws', 'project management']",backend developer junior,1
+2,"['ios', 'flutter', 'project management', 'kotlin', 'aws']",app developer junior,1
+6,"['css', 'html', 'javascript', 'ruby', 'photoshop']",frontend developer senior,0
+0,"['android', 'java', 'docker', 'nodejs', 'content writing']",app developer junior,1
+7,"['vue', 'javascript', 'typescript', 'content writing', 'ruby']",frontend developer senior,0
+0,"['postgresql', 'flask', 'nodejs', 'aws', 'seo']",backend developer junior,1
+0,"['java', 'servlet', 'kotlin', 'seo', 'nodejs']",java developer junior,1
+1,"['ios', 'flutter', 'project management', 'kotlin', 'aws']",app developer junior,1
+5,"['AI', 'API', 'python', 'photoshop', 'seo']",python developer senior,0
+7,"['hibernate', 'API', 'microservices', 'project management', 'nodejs']",java developer senior,0
+2,"['flutter', 'ios', 'nodejs', 'docker', 'project management']",app developer junior,1
+3,"['javascript', 'css', 'content writing', 'seo', 'kotlin']",frontend developer junior,1
+4,"['AI', 'API', 'python', 'photoshop', 'docker']",python developer senior,0
+0,"['sql', 'postgresql', 'aws', 'kotlin', 'content writing']",backend developer junior,1
+0,"['servlet', 'hibernate', 'project management', 'content writing', 'aws']",java developer junior,1
+5,"['redux', 'react', 'javascript', 'kotlin', 'ruby']",frontend developer senior,0
+0,"['servlet', 'sql', 'photoshop', 'nodejs', 'seo']",java developer junior,1
+10,"['spring', 'API', 'sql', 'photoshop', 'seo']",java developer senior,0
+4,"['flask', 'python', 'API', 'photoshop', 'content writing']",python developer senior,0
+4,"['API', 'flask', 'deep learning', 'kotlin', 'nodejs']",python developer senior,0
+8,"['machine learning', 'flask', 'AI', 'photoshop', 'ruby']",python developer senior,0
+8,"['API', 'deep learning', 'python', 'seo', 'project management']",python developer senior,0
+1,"['python', 'flask', 'kotlin', 'content writing', 'photoshop']",backend developer junior,1
+3,"['swift', 'java', 'project management', 'kotlin', 'content writing']",app developer junior,1
+1,"['swift', 'java', 'nodejs', 'aws', 'seo']",app developer junior,1
+7,"['flask', 'python', 'postgresql', 'photoshop', 'seo']",backend developer senior,0
+0,"['hibernate', 'java', 'content writing', 'docker', 'photoshop']",java developer junior,1
+3,"['machine learning', 'API', 'project management', 'kotlin', 'docker']",python developer junior,1
+0,"['flutter', 'android', 'seo', 'ruby', 'docker']",app developer junior,1
+8,"['ios', 'android', 'kotlin', 'nodejs', 'kotlin']",app developer senior,0
+5,"['react', 'html', 'typescript', 'nodejs', 'seo']",frontend developer senior,0
+1,"['hibernate', 'servlet', 'ruby', 'aws', 'seo']",java developer junior,1
+0,"['flask', 'python', 'docker', 'project management', 'aws']",python developer junior,1
+3,"['servlet', 'hibernate', 'kotlin', 'aws', 'content writing']",java developer junior,1
+3,"['html', 'javascript', 'nodejs', 'kotlin', 'photoshop']",frontend developer junior,1
+2,"['react', 'html', 'nodejs', 'ruby', 'docker']",frontend developer junior,1
+3,"['machine learning', 'python', 'aws', 'photoshop', 'seo']",python developer junior,1
+3,"['java', 'swift', 'ruby', 'content writing', 'docker']",app developer junior,1
+6,"['ios', 'java', 'kotlin', 'project management', 'content writing']",app developer senior,0
+8,"['API', 'python', 'django', 'photoshop', 'content writing']",backend developer senior,0
+0,"['flask', 'postgresql', 'seo', 'docker', 'kotlin']",backend developer junior,1
+7,"['hibernate', 'API', 'JPA', 'nodejs', 'docker']",java developer senior,0
+2,"['spring', 'servlet', 'project management', 'docker', 'seo']",java developer junior,1
+1,"['sql', 'django', 'aws', 'kotlin', 'ruby']",backend developer junior,1
+1,"['sql', 'spring', 'kotlin', 'photoshop', 'project management']",java developer junior,1
+1,"['python', 'flask', 'content writing', 'photoshop', 'ruby']",backend developer junior,1
+9,"['javascript', 'html', 'css', 'project management', 'content writing']",frontend developer senior,0
+8,"['API', 'deep learning', 'AI', 'project management', 'seo']",python developer senior,0
+10,"['redux', 'typescript', 'html', 'aws', 'nodejs']",frontend developer senior,0
+8,"['redux', 'typescript', 'html', 'project management', 'photoshop']",frontend developer senior,0
+0,"['react', 'vue', 'seo', 'docker', 'nodejs']",frontend developer junior,1
+6,"['python', 'flask', 'API', 'aws', 'project management']",backend developer senior,0
+0,"['API', 'flask', 'photoshop', 'ruby', 'docker']",python developer junior,1
+4,"['django', 'sql', 'docker', 'nodejs', 'ruby']",backend developer senior,0
+7,"['API', 'microservices', 'spring', 'photoshop', 'kotlin']",java developer senior,0
+10,"['react', 'javascript', 'css', 'content writing', 'docker']",frontend developer senior,0
+0,"['css', 'javascript', 'seo', 'content writing', 'aws']",frontend developer junior,1
+2,"['ios', 'flutter', 'kotlin', 'ruby', 'project management']",app developer junior,1
+5,"['flask', 'django', 'sql', 'docker', 'photoshop']",backend developer senior,1
+3,"['java', 'android', 'ruby', 'docker', 'content writing']",app developer junior,1
+8,"['react', 'css', 'vue', 'kotlin', 'docker']",frontend developer senior,0
+4,"['deep learning', 'API', 'machine learning', 'nodejs', 'kotlin']",python developer senior,0
+8,"['python', 'flask', 'sql', 'nodejs', 'aws']",backend developer senior,0
+3,"['machine learning', 'python', 'nodejs', 'project management', 'seo']",python developer junior,1
+1,"['html', 'vue', 'kotlin', 'photoshop', 'nodejs']",frontend developer junior,1
+3,"['sql', 'flask', 'photoshop', 'kotlin', 'project management']",backend developer junior,1
+9,"['redux', 'css', 'javascript', 'kotlin', 'content writing']",frontend developer senior,0
+9,"['swift', 'android', 'flutter', 'photoshop', 'kotlin']",app developer senior,1
+3,"['machine learning', 'python', 'content writing', 'nodejs', 'photoshop']",python developer junior,1
+3,"['vue', 'css', 'seo', 'docker', 'kotlin']",frontend developer junior,1
+4,"['API', 'flask', 'docker', 'content writing', 'docker']",backend developer senior,0
+1,"['machine learning', 'API', 'project management', 'seo', 'docker']",python developer junior,1
+0,"['vue', 'react', 'content writing', 'kotlin', 'project management']",frontend developer junior,1
+6,"['docker', 'django', 'API', 'project management', 'ruby']",backend developer senior,0
+10,"['API', 'kotlin', 'ios', 'ruby', 'kotlin']",app developer senior,0
+9,"['css', 'typescript', 'html', 'aws', 'seo']",frontend developer senior,0
+2,"['sql', 'python', 'project management', 'seo', 'docker']",backend developer junior,1
+4,"['JPA', 'spring', 'hibernate', 'kotlin', 'ruby']",java developer senior,0
+0,"['spring', 'java', 'aws', 'content writing', 'kotlin']",java developer junior,1
+8,"['python', 'machine learning', 'flask', 'nodejs', 'aws']",python developer senior,0
+4,"['java', 'sql', 'spring', 'content writing', 'docker']",java developer senior,0
+1,"['android', 'java', 'kotlin', 'project management', 'docker']",app developer junior,1
+3,"['machine learning', 'API', 'docker', 'ruby', 'kotlin']",python developer junior,1
+2,"['spring', 'java', 'photoshop', 'docker', 'kotlin']",java developer junior,1
+0,"['machine learning', 'API', 'nodejs', 'project management', 'ruby']",python developer junior,1
+8,"['swift', 'android', 'ios', 'nodejs', 'project management']",app developer senior,0
+9,"['sql', 'docker', 'django', 'seo', 'content writing']",backend developer senior,0
+2,"['hibernate', 'java', 'aws', 'project management', 'seo']",java developer junior,1
+0,"['python', 'django', 'ruby', 'docker', 'photoshop']",backend developer junior,1
+1,"['flask', 'python', 'photoshop', 'aws', 'docker']",python developer junior,1
+9,"['ios', 'swift', 'flutter', 'ruby', 'seo']",app developer senior,0
+2,"['API', 'machine learning', 'ruby', 'seo', 'content writing']",python developer junior,1
+4,"['java', 'android', 'ios', 'docker', 'photoshop']",app developer senior,0
+9,"['sql', 'API', 'docker', 'ruby', 'aws']",backend developer senior,0
+2,"['swift', 'java', 'seo', 'nodejs', 'ruby']",app developer junior,1
+3,"['servlet', 'spring', 'photoshop', 'seo', 'content writing']",java developer junior,1
+4,"['API', 'java', 'swift', 'ruby', 'content writing']",app developer senior,0
+2,"['API', 'flask', 'content writing', 'photoshop', 'project management']",python developer junior,1
+0,"['swift', 'flutter', 'project management', 'ruby', 'nodejs']",app developer junior,1
+1,"['hibernate', 'java', 'project management', 'nodejs', 'seo']",java developer junior,1
+10,"['API', 'flask', 'postgresql', 'nodejs', 'project management']",backend developer senior,0
+10,"['python', 'flask', 'API', 'seo', 'nodejs']",backend developer senior,0
+0,"['flutter', 'java', 'seo', 'ruby', 'content writing']",app developer junior,1
+1,"['swift', 'flutter', 'aws', 'nodejs', 'seo']",app developer junior,1
+10,"['swift', 'API', 'ios', 'seo', 'content writing']",app developer senior,0
+2,"['hibernate', 'sql', 'aws', 'content writing', 'docker']",java developer junior,1
+5,"['API', 'java', 'spring', 'aws', 'seo']",java developer senior,0
+0,"['sql', 'java', 'kotlin', 'aws', 'nodejs']",java developer junior,1
+3,"['API', 'python', 'aws', 'project management', 'seo']",python developer junior,1
+3,"['hibernate', 'java', 'project management', 'kotlin', 'aws']",java developer junior,1
+0,"['machine learning', 'flask', 'nodejs', 'photoshop', 'content writing']",python developer junior,1
